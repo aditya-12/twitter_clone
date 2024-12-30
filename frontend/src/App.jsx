@@ -19,10 +19,10 @@ function App() {
       try {
         const res = await fetch("/api/auth/authCheck");
         const data = await res.json();
+        if (data.error) return null;  
         if (!res.ok){
           throw new Error(data.error || "something went wrong");
         }
-        if (data.error) return null;
         console.log("authUser is here:", data);
         return data;
       
