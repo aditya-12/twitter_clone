@@ -65,7 +65,7 @@ const Post = ({ post }) => {
 			}
 		},
 		onSuccess:(updatedLikes) => {
-			toast.success("Post Liked Successfully");
+			// toast.success("Post Liked Successfully");
 			// queryClient.invalidateQueries({queryKey:["posts"]}); // this is not the best UX, as it will refetch all the posts
 			// instead update the catche directly for that specific post
 
