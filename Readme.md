@@ -88,6 +88,8 @@ npm run build
 ```bash
 npm start
 ```
+
+---
 ## Future Additions 🔮
 
 Here are some **future additions** planned for the project:
