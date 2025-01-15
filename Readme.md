@@ -88,3 +88,29 @@ npm run build
 ```bash
 npm start
 ```
+## Future Additions 🔮
+
+Here are some **future additions** planned for the project:
+
+1. **Sign-up and Authentication with Google, Facebook, and Microsoft** 🔐  
+   - Users will be able to sign up and log in using **Google**, **Facebook**, and **Microsoft** authentication providers for a smoother login experience.
+   
+2. **Improved Recommendation System for Posts** 🧠  
+   - The recommendation system will be enhanced using machine learning or collaborative filtering to provide users with better personalized post recommendations.
+
+3. **Real-time Chat/Direct Messaging** 💬  
+   - Add a feature to allow users to send direct messages to each other in real time.
+
+4. **Profile Verification** ✔️  
+   - Introduce a system for verifying user profiles to give them a "verified" status similar to how Twitter verifies celebrities, businesses, and influencers.
+
+5. **Hashtags and Trending Topics** 📈  
+   - Implement support for **hashtags** and a **trending topics** feature that shows the most popular discussions on the platform.
+
+6. **Improved Post Media** 🎥  
+   - Support for **GIFs** and **videos** in posts to make the platform more engaging.
+---
+
+## Contributing 🤝
+
+Feel free to fork the repository and create pull requests for new features or improvements. If you find any bugs, please open an issue.
