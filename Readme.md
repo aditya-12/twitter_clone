@@ -1,6 +1,6 @@
 # Twitter Clone - MERN Stack 
 
-This is a full-stack Twitter clone built using the **MERN (MongoDB, Express, React, Node.js)** stack. The app allows users to create posts, comment, like, follow others, edit their profile, and more. It also includes user authentication with JWT, notifications, and image uploads using Cloudinary. The app utilizes **React Query** for data fetching and mutations to handle API requests efficiently. t
+This is a full-stack Twitter clone built using the **MERN (MongoDB, Express, React, Node.js)** stack. The app allows users to create posts, comment, like, follow others, edit their profile, and more. It also includes user authentication with JWT, notifications, and image uploads using Cloudinary. The app utilizes **React Query** for data fetching and mutations to handle API requests efficiently. 
 
 
 ## Features 🚀
